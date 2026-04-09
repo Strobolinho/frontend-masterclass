@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+div {
+    height: 100vh;
+    background-color: green;
+    background-image: url("https://m.media-amazon.com/images/I/71dGB5R6vjL.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

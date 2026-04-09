@@ -1,0 +1,20 @@
+h1 {
+    font-family: monospace;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: overline;
+}
+
+p {
+    line-height: 30px;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    cursor: crosshair;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,19 @@
+html {
+    font-size: 2em;
+}
+
+section {
+    width: 500px;
+    height: 500px;
+    background: blue;
+}
+
+div {
+    width: 10%;
+    height: 20%;
+    background: red;
+}
+
+p {
+    font-size: 0.5em;
+}

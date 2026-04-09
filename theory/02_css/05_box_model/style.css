@@ -1,0 +1,24 @@
+/* div {
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px; */
+
+    /* border: 2px solid red; */
+
+    /* border-left: 2px solid blue;
+    border-right: 2px solid red;
+    border-top: 3px dotted pink;
+    border-bottom: 4px solid steelblue; */
+/* } */
+
+
+div {
+    border: 2px solid red;
+    /* padding-inline-end: 10px;
+    text-align: right; */
+
+    padding: 10px 0 10px 0;
+
+    margin: 100px 100px 0 100px
+}
